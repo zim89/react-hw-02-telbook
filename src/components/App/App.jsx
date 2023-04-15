@@ -1,5 +1,5 @@
 import { Component } from 'react';
-import { Section, Container, Title } from './Styled';
+import { Title } from './Styled';
 import TelbookForm from 'components/TelbookForm/TelbookForm';
 
 export class App extends Component {
